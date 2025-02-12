@@ -1,6 +1,6 @@
 # LaravelFood
 
-Neste curso aprendi as boas práticas para o desenvolvimento de uma aplicação laravel.
+Nesta aplicação eu estava aprimorando as boas práticas para o desenvolvimento de uma aplicação laravel.
 
 ## Detalhes do Curso:
 
@@ -16,4 +16,3 @@ Neste curso aprendi as boas práticas para o desenvolvimento de uma aplicação 
 - Segurança
 - Projeto Atualizado (v.8.x)
 - CI (Continuous Integration - GitHub Actions)
-- **Suporte até 2024**
